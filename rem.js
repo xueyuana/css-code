@@ -6,7 +6,7 @@
  
   var width = doc.clientWidth;
   var dpr = window.devicePixelRatio
-  var rem = width*dpr/10;
+  var rem = width/10;
   var scale = 1/dpr;
   
 
